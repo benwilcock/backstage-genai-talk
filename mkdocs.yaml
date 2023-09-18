@@ -1,0 +1,16 @@
+site_name: backstage-genai-talk
+site_description: Backstage GenAI Talk
+site_author: user:ben.wilcock
+nav:
+  - "Welcome": index.md
+  # - "MKDocs Extensions": mkdocs-extensions.md  
+  # - 'Tanzu Labs - Modernization Recipes':
+  #   - 'REST API Design': recipes/rest-api-design.md
+  #   - 'REST API Versioning' : recipes/rest-api-versioning.md
+  #   - 'Get Started With Git': recipes/get-started-with-git.md
+  
+plugins:
+  - techdocs-core
+metadata:
+  namespace: default
+kind: system
